@@ -1,0 +1,18 @@
+{
+  "seed": 20260827,
+  "python": "3.13.15 (main, Aug  6 2026, 11:06:23) [GCC 11.4.0]",
+  "torch": "2.11.0+cu128",
+  "device": "cuda",
+  "gpu": "Tesla T4",
+  "image_size": 256,
+  "batch_size": 8,
+  "epochs": 25,
+  "learning_rate": 0.0003,
+  "weight_decay": 0.0001,
+  "mc_samples": 8,
+  "calibration_pixels": 100000,
+  "train_count": 1283,
+  "val_count": 227,
+  "test_count": 110,
+  "dataset_root": "/content/suim_data"
+}

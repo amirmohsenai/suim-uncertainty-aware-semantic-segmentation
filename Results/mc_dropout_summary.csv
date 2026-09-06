@@ -1,0 +1,2 @@
+MC_samples,mIoU,mean_Dice,spearman_uncertainty_error,high_vs_low_uncertainty_error_gap,uncertainty_AURC
+8,0.40262680108047416,0.5168461514541203,0.40694270685290446,0.4810527618974447,0.0741131155326763
